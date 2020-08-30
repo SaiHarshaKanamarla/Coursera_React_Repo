@@ -1,0 +1,20 @@
+firstly, we need to create a react app..so we need to install a module called create-react-app from npm, this can be done using the following command
+
+npm install create-react-app
+
+Then, to create the actual application, we need to then execute
+
+create-react-app "application_name"
+
+In react, during styling, all the elements are names using className instead of class as in HTML because the class is a keyword that is used in ES6. So 
+to prevent any confusion, class in styling is renamed as className.
+
+JSX - JavaScript Extensions.
+
+const element = <h1> Hello, World </h1>;
+
+JSX is the syntactic extension to javascript. It is a shorthand notation to represent javascript function calls that evaluate to javascript objects.
+React combines both UI and rendering logic.
+
+
+
